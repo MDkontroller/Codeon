@@ -5,7 +5,6 @@ description = ""
 authors = [
     {name = "Lilly",email = "lg1527058@gmail.com"}
 ]
-readme = "README.md"
 requires-python = ">=3.9.0, <3.12"
 dependencies = [
     "torch (>=2.6.0,<3.0.0)",
